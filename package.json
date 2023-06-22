@@ -14,9 +14,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MonicaHillman/aluraplay-requisicoes/issues"
-  },
-  "homepage": "https://github.com/MonicaHillman/aluraplay-requisicoes#readme",
-  "dependencies": {
-    "json-server": "^0.17.0"
   }
 }
